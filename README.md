@@ -23,3 +23,7 @@ In this case, only "city" and "temperature" columns will be displayed in the fin
 
 Working Example at:
 https://stackblitz.com/edit/react-vvsinh?file=DynamicTableSkeleton.js
+
+Special thanks to:
+https://medium.com/@subalerts/create-dynamic-table-from-json-in-react-js-1a4a7b1146ef
+The article helped me to understand how to print data from Json into table with React Js and it helped me to create the planned Dynamic Table Skeleton.
