@@ -1,43 +1,12 @@
-.App{
-  text-align: center;
-}
-.App-logo{
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-.App-header{
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-.App-link{
-  color: #61dafb;
-}
-@keyframes App-logo-spin{
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 #DynamicTableSkeleton.css
-h1, p{
-  font-family: Tahonma;
-}
 table{
-  font-family: "Tahoma";
-  background-color: gray;
+ font-family: "Tahoma";
+  background-color: white;
   width: 80%;
 }
 th{
-  background-color: rgb(202, 202, 61);
+   font-family: "Tahoma";
+  background-color: rgb(159, 178, 228);
 }
 tr{
   background-color: darkslateblue
@@ -48,7 +17,7 @@ td:nth-child(even) {background-color: #f2f2f2;}
 td:nth-child(odd) {background-color: silver;}
 
 td{
-  background-color: lightyellow
+   font-family: "Tahoma";
 }
 
 .class_blue{
