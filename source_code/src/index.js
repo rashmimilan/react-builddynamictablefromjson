@@ -11,6 +11,11 @@ export class App extends React.Component {
             <div>
             <DynamicTableSkeleton table={table1} table_params={table1_params} />
             </div>
+            <br /><br />
+            <div>
+            <DynamicTableSkeleton table={table2} />
+            </div>
+
             </div>
           );
     } 
